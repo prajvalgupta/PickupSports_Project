@@ -1,0 +1,35 @@
+<html>
+<head>
+  <style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  th {text-align: left;}
+
+  input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: bordser-box;
+  background-color: lightblue;
+  border: 3px solid #555;
+  }
+  </style>
+  <body>
+    <centre>ADD A NEW VENUE</centre>
+    <form action = {{ form_action }} method="post">
+      {% csrf_token %}
+      {{ form }}
+      <input type="submit" name="submit" value="Submit">
+      {{ error_message }}
+    </form>
+  </body>
+</head>
+</html>
