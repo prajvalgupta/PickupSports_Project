@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"User",
+				"UserProfileInLine"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"use",
+				"user_name"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"task",
+				"task3_apad"
+			],
+			[
+				"contact",
+				"contact_number"
+			],
+			[
+				"pass",
+				"password_check"
+			],
+			[
+				"cont",
+				"contact_number"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"zip",
+				"zip_code"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/login.html",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/prajvalgupta/apad_project",
+		"/Users/prajvalgupta/apad_project/src",
+		"/Users/prajvalgupta/apad_project/src/phase2",
+		"/Users/prajvalgupta/apad_project/src/templates",
+		"/Users/prajvalgupta/apad_project/src/templates/registration",
+		"/Users/prajvalgupta/apad_project/src/user",
+		"/Users/prajvalgupta/apad_project/src/user/__pycache__"
+	],
+	"file_history":
+	[
+		"/Users/prajvalgupta/apad_project/src/templates/base.html",
+		"/Users/prajvalgupta/apad_project/src/templates/signup.html",
+		"/Users/prajvalgupta/apad_project/src/templates/home.html",
+		"/Users/prajvalgupta/apad_project/src/pages/views.py",
+		"/Users/prajvalgupta/apad_project/src/phase2/urls.py",
+		"/Users/prajvalgupta/apad_project/src/phase2/settings.py",
+		"/Users/prajvalgupta/apad_project/src/manage.py",
+		"/Users/prajvalgupta/apad_project/src/user/models.py",
+		"/Users/prajvalgupta/apad_project/src/user/views.py",
+		"/Users/prajvalgupta/apad_project/yourenv/lib/python3.7/site-packages/django/contrib/admin/sites.py",
+		"/Users/prajvalgupta/apad_project/yourenv/lib/python3.7/site-packages/django/contrib/auth/__init__.py",
+		"/Users/prajvalgupta/apad_project/yourenv/lib/python3.7/site-packages/django/contrib/auth/backends.py",
+		"/Users/prajvalgupta/apad_project/src/templates/login.html",
+		"/Users/prajvalgupta/apad_project/src/db.sqlite3",
+		"/Users/prajvalgupta/apad_project/src/user/forms.py",
+		"/Users/prajvalgupta/apad_project/src/user/admin.py",
+		"/Users/prajvalgupta/apad_project/src/user/apps.py",
+		"/Users/prajvalgupta/apad_project/src/templates/registration/login.html",
+		"/Users/prajvalgupta/apad_project/src/pages/forms.py",
+		"/Users/prajvalgupta/Documents/appengine-guestbook-python/app.yaml",
+		"/Users/prajvalgupta/Documents/appengine-guestbook-python/index.html",
+		"/Users/prajvalgupta/Documents/appengine-guestbook-python/guestbook.py",
+		"/Users/prajvalgupta/Downloads/google-cloud-sdk/platform/google_appengine/lib/django-1.2/django/contrib/admin/media/js/admin/ordering.js",
+		"/Users/prajvalgupta/Downloads/apad.sql",
+		"/Users/prajvalgupta/Downloads/ClassicModels (MSSQL).sql",
+		"/Users/prajvalgupta/Documents/appengine-guestbook-python/index.yaml",
+		"/Applications/MAMP/htdocs/apad/database.php",
+		"/Applications/MAMP/htdocs/apad/task3.php",
+		"/Users/prajvalgupta/Downloads/mywork/database.php",
+		"/Users/prajvalgupta/Downloads/mywork/register.php",
+		"/Users/prajvalgupta/Downloads/mywork/connect.php",
+		"/Users/prajvalgupta/Downloads/mywork/x.php",
+		"/Users/prajvalgupta/apad_project/README.md",
+		"/Users/prajvalgupta/Downloads/7-23/task3.php",
+		"/Users/prajvalgupta/Downloads/mywork/login.php",
+		"/Users/prajvalgupta/Downloads/mywork/your_bookings.php",
+		"/Volumes/Untitled 2/Data/Data E/Busigence Files/Busigence Assignment/Problem1/Problem1/Solution_PrajvalGupta/Code/main.py",
+		"/Applications/MAMP/htdocs/task3.php",
+		"/Users/prajvalgupta/Downloads/mywork/orders.php",
+		"/Users/prajvalgupta/Downloads/SampleJS.html",
+		"/Users/prajvalgupta/apad_project/functions.py",
+		"/Users/prajvalgupta/README.md",
+		"/Users/prajvalgupta/Documents/task2_git_Prajval_Gupta.txt",
+		"/Users/prajvalgupta/Documents/task2_gitgame_Prajval_Gupta",
+		"/Users/prajvalgupta/git-game/nextclue_input.cpp",
+		"/Users/prajvalgupta/git_project/app.py",
+		"/Users/prajvalgupta/git_project/data.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sender"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/login.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apad.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
